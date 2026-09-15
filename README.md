@@ -91,4 +91,4 @@ A documentação dos componentes do laboratório será organizada em seções pr
 
 ---
 
-Este laboratório está em constante evolução e será utilizado como ambiente de estudos e prática em infraestrutura, redes e administração de sistemas.
+Este laboratório está em constante evolução e será utilizado como ambiente de estudos e prática em infraestrutura, redes e administração de sistemas..
